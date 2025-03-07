@@ -133,7 +133,7 @@ body {
   position: absolute;
   background-color: #fff;
   width: 250px;
-  height: 250px;
+  height: 350px;
   z-index: -1;
   left: 0;
   top: 0;
@@ -142,14 +142,14 @@ body {
 
 p {
   font-family: "Times", cursive;
-  margin: 15px;
+  margin: 10px;
   color: #333;
 }
 
 .name {
   position: absolute;
   left: 150px;
-  top: 270px;
+  top: 300px;
   color: #333;
 }
 
